@@ -1,0 +1,8 @@
+testdata.txt
+user:bruno score:35
+user:socialpoint score:37
+user:local score:35
+user:user25 score:40
+user:test31 score:31
+user:sadclown score:50
+user:happyclown score:50
